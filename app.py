@@ -1,5 +1,3 @@
-#Created by Soham Sasan
-#ID: 21123962
 import streamlit as st
 
 import numpy as np
